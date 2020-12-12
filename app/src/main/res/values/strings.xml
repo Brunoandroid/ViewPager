@@ -6,7 +6,7 @@
     <string name="titleScreen3">BEM VINDO</string>
     <string name="seguir">SEGUIR</string>
     <string name="iniciar">INICIAR</string>
-    <string name="screen1">Usuarios conseguem criar, lista, editar e apagar usuarios ja existentes no aplicativo</string>
+    <string name="screen1">Usuarios conseguem criar, listar, editar e apagar usuarios ja existentes no aplicativo</string>
     <string name="screen2">Nesta aplicação é possivel adicionar uma lista de usuarios que fica salva</string>
     <string name="screen3">Anote seus usuarios e tenha o registro de todos a qualquer momento</string>
     <string name="home">Bem vindo, ViewPager Realizado</string>

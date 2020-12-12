@@ -17,7 +17,9 @@ class SplashFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
 
+        // Temporizador
         Handler().postDelayed({
+            // Verifica a condição do Shared
             if(onBoardindFinished()){
                 findNavController().navigate(R.id.action_splashFragment_to_inicioFragment)
             }else {
@@ -25,11 +27,14 @@ class SplashFragment : Fragment() {
             }
         },3000)
 
+        // Recebe conteudo da view
         val view = inflater.inflate(R.layout.fragment_splash, container, false)
 
+        // Retorna a view
         return view
     }
 
+    // Captura valor inicial do Shared
     private fun onBoardindFinished(): Boolean{
         val sharedPref = requireActivity().getSharedPreferences("onBoarding", Context.MODE_PRIVATE)
         return sharedPref.getBoolean("Finished",false)

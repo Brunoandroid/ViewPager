@@ -16,14 +16,18 @@ class FirstScreen : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
 
+        // Recebe conteudo da View
         val view = inflater.inflate(R.layout.fragment_first_screen, container, false)
 
+        // Obtendo a referencia XML do viewPager2
         val viewPager = activity?.findViewById<ViewPager2>(R.id.viewPager)
 
+        // Se o textView for clicado é passado para proxima Screen
         view.seguir1.setOnClickListener{
             viewPager?.currentItem = 1
         }
 
+        // Retorna View
         return view
 
     }
