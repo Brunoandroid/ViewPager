@@ -48,7 +48,7 @@
         android:layout_width="193dp"
         android:layout_height="187dp"
         android:layout_marginTop="140dp"
-        android:src="@android:drawable/ic_lock_lock"
+        android:src="@drawable/logo"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
