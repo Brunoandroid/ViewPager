@@ -15,6 +15,11 @@ Este projeto mostra uma tela inicial e em seguida apresenta uma ViewPage contend
 ## Back-end
 - Kotlin
 
+## Recursos
+- Fragment
+- ViewPager
+- SharedPreferences
+
 # Autor
 
 Bruno Freitas Araujo
