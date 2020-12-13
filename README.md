@@ -1,6 +1,6 @@
 # ViewPager
 
-LICENSE-MIT
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)]()
 
 # Sobre o projeto
 
