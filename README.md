@@ -1,6 +1,6 @@
 # ViewPager
 
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)]()
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Brunoandroid/ViewPager/blob/main/LICENSE)
 
 # Sobre o projeto
 
