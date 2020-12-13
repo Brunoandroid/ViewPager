@@ -14,3 +14,9 @@ Este projeto mostra uma tela inicial e em seguida apresenta uma ViewPage contend
 
 ## Back-end
 - Kotlin
+
+# Autor
+
+Bruno Freitas Araujo
+
+https://www.linkedin.com/in/bruno-freitas-b4491a138/
